@@ -1,0 +1,28 @@
+name: Vocative Consulting
+favicon: null
+layout_spectrum: 0.7880691275931895
+typography_spectrum: 0.8353946523275226
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2657616795040667
+  lightness: 0.649511628318578
+  saturation: 0.659348187269643
+  rhythmicContrast: 0.21472975006327033
+purpose: []
